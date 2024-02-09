@@ -29,7 +29,7 @@ body::before {
 
 .container {
     width: 80%;
-    height: 90%;
+    height: 80%;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -93,7 +93,7 @@ body::before {
 
 h1 {
     font-family: 'Chakra Petch', sans-serif;
-    font-size: 72px;
+    font-size: 4rem;
     padding-bottom: 3rem;
 }
 
@@ -103,7 +103,7 @@ button {
 }
 
 .texto__paragrafo {
-    font-size: 32px;
+    font-size: 2rem;
     font-weight: 400;
 }
 
@@ -120,7 +120,6 @@ button:disabled {
     .container__botao {
         font-size: 16px;
     }
-
 
     .texto__paragrafo {
         font-size: 24px;
