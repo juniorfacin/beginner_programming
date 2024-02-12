@@ -1,0 +1,21 @@
+header {
+  text-align: center;
+  font-size: 2rem;
+  color: #279EFF;
+}
+
+html {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+  height: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #0C356A;
+}
+
+li {
+  font-size: 1.5rem;
+  color: #f0f0f0;
+}
