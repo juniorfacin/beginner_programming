@@ -48,3 +48,4 @@ function mostrarTabuada(numero) {
 
 let numero = 4
 mostrarTabuada(numero);
+
