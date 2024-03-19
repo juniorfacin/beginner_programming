@@ -25,6 +25,12 @@ da programação e começar com a criação de sites utilizando as linguagens po
 - Colaboração em projetos, controle de versionamento e tratamento de conflitos com o Git
 - Analise e modificação do histórico de commits
 
+## 3. Praticar Lógica de Programação com desafios
+
+### *Lógica de programação: praticando com desafios*
+- Lógica de programação com diferentes desafios
+- Reforçando conhecimentos em lógica de programação
+
 ##  Tecnologias Utilizadas
 
 <div style="display: inline_block">
